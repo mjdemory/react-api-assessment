@@ -1,3 +1,5 @@
+Link to api repo: https://github.com/KenzieAcademy/django-rest-mjdemory
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
